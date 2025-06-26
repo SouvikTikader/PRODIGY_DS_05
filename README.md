@@ -9,7 +9,8 @@ This project performs **exploratory data analysis and visualization** on NYC mot
 * `Motor_Vehicle_Collisions_-_Crashes_20250626.csv`
   Source: NYC Open Data – [Motor Vehicle Collisions - Crashes](https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95/about_data)
 
-Each record contains crash details including date, time, location, number of injuries, and contributing factors.
+Each record contains crash details including date, time, location and contributing factors.
+This dataset contains records from 26th jan 2025 to 26th june 2025
 
 ---
 
