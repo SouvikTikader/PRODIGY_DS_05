@@ -44,7 +44,7 @@ After cleaning:
 
 ```bash
 git clone https://github.com/SouvikTikader/PRODIGY_DS_05.git
-cd 
+cd PRODIGY_DS_05
 ```
 
 #### 2. Install Required Packages
